@@ -1,0 +1,8 @@
+[parameter:web]
+CurrentValue="http://slovardalja.net/"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue=""
+ParamName="web"
+Prompt=""
+Type="Custom"
